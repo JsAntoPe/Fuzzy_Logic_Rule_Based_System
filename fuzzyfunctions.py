@@ -5,7 +5,7 @@ import plotly.graph_objs as go
 import plotly
 
 
-plotly.tools.set_credentials_file(username='JsAntoPe', api_key='FYoXSRfgoO7uVToeBeKK')
+plotly.tools.set_credentials_file(username= """username""", api_key="""API_KEY""")
 
 
 def alittle(result):
